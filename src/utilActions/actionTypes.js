@@ -1,0 +1,4 @@
+export const USER_NAME = "USER_NAME";
+export const USER_DATA ="USER_DATA";
+export const GET_USER_DATA = "GET_USER_DATA";
+export const USER_ADDED_SUCCESSFULLY='USER_ADDED_SUCCESSFULLY';
